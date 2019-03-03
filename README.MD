@@ -33,7 +33,7 @@ this.handleSecond=function(e){
 }
 ```
 ________
-###Functions
+### Functions
 ``` javascript
 set frameRate(num:number)
 
@@ -55,7 +55,7 @@ const frame= ShinTimeLine.frameRate;
 ```
 
 _________
-###EVENTS
+### EVENTS
 events which defined in ShinTimeLine
 you could regist event listener depends on these events;
 ```javascript
