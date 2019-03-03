@@ -31,8 +31,8 @@ let second=0;
 this.handleSecond=function(e){
     console.log(second++);
 }
-
 ```
+
 ##Functions
 ``` javascript
 set frameRate(num:number)
@@ -53,6 +53,8 @@ get frameRate()
 const frame= ShinTimeLine.frameRate;
 //you will get 24
 ```
+
+
 ###EVENTS
 events which defined in ShinTimeLine
 you could regist event listener depends on these events;
