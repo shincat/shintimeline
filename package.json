@@ -11,7 +11,8 @@
   ],
   "author": "jsgxx00@yeah.net",
   "license": "ISC",
+  "git": "https://github.com/shinku/shintimeline",
   "dependencies": {
-    "shinevent": "^2.0.1"
+    "shinevent": "^2.1.6"
   }
 }
